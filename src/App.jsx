@@ -11,6 +11,7 @@ const emotionConfig = {
     showHelp: false,
     fontSize: 16,
     workspaceTitle: "Productive and exploratory mode",
+    background:"#9cff98ff",
     workspaceText:
       "You seem comfortable, so the interface exposes more options and encourages exploration.",
     primaryActionLabel: "Start something new",
@@ -23,6 +24,7 @@ const emotionConfig = {
     showHelp: true,
     fontSize: 18,
     workspaceTitle: "Gentle mode",
+    background:"#9dafffff",
     workspaceText:
       "The interface is simplified to reduce pressure. You can take things slowly and focus on one task.",
     primaryActionLabel: "Do one small step",
@@ -35,6 +37,7 @@ const emotionConfig = {
     showHelp: true,
     fontSize: 17,
     workspaceTitle: "Calm and focused mode",
+    background:"#ffb6b6ff",
     workspaceText:
       "Animations and distractions are reduced. The UI guides you to resolve one thing at a time.",
     primaryActionLabel: "Resolve current issue",
@@ -47,6 +50,7 @@ const emotionConfig = {
     showHelp: false,
     fontSize: 16,
     workspaceTitle: "Orientation mode",
+    background:"#ffca98ff",
     workspaceText:
       "You might be seeing something new. The interface highlights key information and orientation tips.",
     primaryActionLabel: "Take a quick tour",
@@ -59,6 +63,7 @@ const emotionConfig = {
     showHelp: false,
     fontSize: 16,
     workspaceTitle: "Standard workspace",
+    background:"#98d9ffff",
     workspaceText:
       "Everything is balanced. You see the usual controls without extra guidance or constraints.",
     primaryActionLabel: "Continue where you left off",
@@ -216,7 +221,7 @@ export default function App() {
             borderRadius: 999,
             border: `1px solid ${ui.accent}`,
             fontSize: 13,
-            background: "#ffffffdd",
+            
           }}
         >
           <div style={{ fontWeight: 600 }}>
