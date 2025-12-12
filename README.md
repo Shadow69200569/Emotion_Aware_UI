@@ -6,31 +6,38 @@ Built using **React** and **Vite**.
 
 ## How to Run the Project
 
-1. Install dependencies:
+1. Clone the repository
+   
+'''bash
+git clone https://github.com/YOUR_USERNAME/Emotion_Aware_UI.git
+cd Emotion_Aware_UI/frontend
+'''
+
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-2. Make sure the face-api model files are placed inside:
+3. Make sure the face-api model files are placed inside:
 
 ```
 public/models/
 ```
 
-3. Start the development server:
+4. Start the development server:
 
 ```bash
 npm run dev
 ```
 
-4. Open the link shown in the terminal (usually):
+5. Open the link shown in the terminal (usually):
 
 ```
 http://localhost:5173
 ```
 
-5. Allow camera access when the browser asks.
+6. Allow camera access when the browser asks.
 
 ## Tech Used
 
