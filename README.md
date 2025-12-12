@@ -46,3 +46,8 @@ http://localhost:5173
 - face-api.js – emotion detection models
 - HTML5 Video API – webcam streaming
 - JavaScript (ESNext)
+
+## Acknowledgement
+
+This project is made possible thanks to face-api.js, an excellent open-source library that provides lightweight and easy-to-use face detection and expression models.
+Their work enables developers to build real-time vision features directly in the browser without any backend or external server.
