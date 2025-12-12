@@ -9,7 +9,7 @@ Built using **React** and **Vite**.
 1. Clone the repository
    
 ```bash
-git clone https://github.com/YOUR_USERNAME/Emotion_Aware_UI.git
+git clone https://github.com/Shadow69200569/Emotion_Aware_UI.git
 cd Emotion_Aware_UI/frontend
 ```
 
