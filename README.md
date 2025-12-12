@@ -1,4 +1,4 @@
-## <h2>Emotion Aware UI</h2>
+# Emotion Aware UI
 
 This project uses **face-api.js** to detect facial emotions in real time through your webcam.
 Based on your expression (happy, sad, angry, surprised, neutral), the interface changes its colors, text, and behavior.
