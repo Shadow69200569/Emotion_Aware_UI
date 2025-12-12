@@ -4,7 +4,7 @@ This project uses **face-api.js** to detect facial emotions in real time through
 Based on your expression (happy, sad, angry, surprised, neutral), the interface changes its colors, text, and behavior.
 Built using **React** and **Vite**.
 
-## <h3>How to Run the Project</h3>
+## How to Run the Project
 
 1. Install dependencies:
 
@@ -32,7 +32,7 @@ http://localhost:5173
 
 5. Allow camera access when the browser asks.
 
-## <h3>Tech Used</h3>
+## Tech Used
 
 - React – UI framework
 - Vite – development and build tool
