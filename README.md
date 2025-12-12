@@ -10,6 +10,7 @@ Built using **React** and **Vite**.
    
 ```bash
 git clone https://github.com/Shadow69200569/Emotion_Aware_UI.git
+cd Emotion_Aware_UI
 ```
 
 2. Install dependencies:
