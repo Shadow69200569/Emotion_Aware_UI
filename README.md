@@ -8,10 +8,10 @@ Built using **React** and **Vite**.
 
 1. Clone the repository
    
-'''bash
+```bash
 git clone https://github.com/YOUR_USERNAME/Emotion_Aware_UI.git
 cd Emotion_Aware_UI/frontend
-'''
+```
 
 2. Install dependencies:
 
